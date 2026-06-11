@@ -1,4 +1,6 @@
-## Hi there 👋
+# 看这里 👋
+
+> Hi there 👋
 
 <!--
 **ooseven-zh2013/ooseven-zh2013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,51 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+我是 **[ooseven-zh2013](https://github.com/ooseven-zh2013)** ，一个喜欢coding的初中牲，欢迎来到我的Github Profile。
+
+> I'm **[ooseven-zh2013](https://github.com/ooseven-zh2013)** , a middle school student who loves coding, welcome to my Github Profile.
+
+## 🔭 我正在做什么
+
+> What am I currently working on
+
+目前我正在开发的是 **[Game](https://github.com/ooseven-zh2013/Game)** 项目。
+
+> I'm currently working on the project called **[Game](https://github.com/ooseven-zh2013/Game)** .
+
+## 🌱 我正在学什么
+
+> What am I currently learning
+
+前端
+
+> Web
+
+## 📫 如何联系我
+
+> How to reach me
+
+邮箱：[ooseven_zh2013@163.com](mailto:ooseven_zh2013@163.com)（主要的）或[ooseven_zh2013_@outlook.com](mailto:ooseven_zh2013_@outlook.com)。
+
+> Email: [ooseven_zh2013@163.com](mailto:ooseven_zh2013@163.com) (main) or [ooseven_zh2013_@outlook.com](mailto:ooseven_zh2013_@outlook.com)
+
+QQ号：3808989166。
+
+> QQ number: 3808989166.
+
+## 😄 如何称呼我
+
+> Pronouns
+
+他/他
+
+> he/him
+
+## ⚡ 有趣的事实
+
+> Fun fact
+
+我的项目中超过一半的**readme.md**都是AI写的。
+
+> More than half in my projects,the **readme.md** is written by AI.

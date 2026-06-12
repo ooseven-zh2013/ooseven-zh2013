@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-我是 **[ooseven-zh2013](https://github.com/ooseven-zh2013)** ，一个喜欢coding的初中牲，欢迎来到我的Github Profile。
+我是 **[ooseven-zh2013](https://github.com/ooseven-zh2013)**，一个喜欢coding的初中牲，欢迎来到我的Github Profile。
 
-> I'm **[ooseven-zh2013](https://github.com/ooseven-zh2013)** , a middle school student who loves coding, welcome to my Github Profile.
+> I'm **[ooseven-zh2013](https://github.com/ooseven-zh2013)**, a middle school student who loves coding, welcome to my Github Profile.
 
 ## 🔭 我正在做什么
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 目前我正在开发的是 **[Game](https://github.com/ooseven-zh2013/Game)** 项目。
 
-> I'm currently working on the project called **[Game](https://github.com/ooseven-zh2013/Game)** .
+> I'm currently working on the project called **[Game](https://github.com/ooseven-zh2013/Game)**.
 
 ## 🌱 我正在学什么
 
@@ -63,4 +63,4 @@ QQ号：3808989166。
 
 我的项目中超过一半的**readme.md**都是AI写的。
 
-> More than half in my projects,the **readme.md** is written by AI.
+> More than half of the **readme.md** files in my projects are written by AI.

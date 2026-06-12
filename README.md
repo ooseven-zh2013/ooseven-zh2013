@@ -61,6 +61,6 @@ QQ号：3808989166。
 
 > Fun fact
 
-我的项目中超过一半的**readme.md**都是AI写的。（这个不是）
+我的项目中超过一半的`readme.md`都是AI写的。（这个不是）
 
-> More than half of the **readme.md** files in my projects are written by AI. (Not this one)
+> More than half of the `readme.md` files in my projects are written by AI. (Not this one)

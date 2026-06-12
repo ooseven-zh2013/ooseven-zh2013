@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 我是 **[ooseven-zh2013](https://github.com/ooseven-zh2013)**，一个喜欢coding的初中牲，欢迎来到我的Github Profile。
 
-> I'm **[ooseven-zh2013](https://github.com/ooseven-zh2013)**, a middle school student who loves coding, welcome to my Github Profile.
+> I'm **[ooseven-zh2013](https://github.com/ooseven-zh2013)**, a middle school student who loves coding. Welcome to my GitHub profile.
 
 ## 🔭 我正在做什么
 
-> What am I currently working on
+> What am I currently working on?
 
 目前我正在开发的是 **[Game](https://github.com/ooseven-zh2013/Game)** 项目。
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ## 🌱 我正在学什么
 
-> What am I currently learning
+> What am I currently learning?
 
 前端
 
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ## 📫 如何联系我
 
-> How to reach me
+> How to reach me?
 
 邮箱：[ooseven_zh2013@163.com](mailto:ooseven_zh2013@163.com)（主要的）或[ooseven_zh2013_@outlook.com](mailto:ooseven_zh2013_@outlook.com)。
 
@@ -61,6 +61,6 @@ QQ号：3808989166。
 
 > Fun fact
 
-我的项目中超过一半的**readme.md**都是AI写的。
+我的项目中超过一半的**readme.md**都是AI写的。（这个不是）
 
-> More than half of the **readme.md** files in my projects are written by AI.
+> More than half of the **readme.md** files in my projects are written by AI. (Not this one)

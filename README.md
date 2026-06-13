@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 
 > What am I currently learning?
 
-前端
+全栈开发，目前在学基础的HTML。
 
-> Web
+> Full stack development, currently learning basic HTML.
 
 ## 📫 如何联系我
 

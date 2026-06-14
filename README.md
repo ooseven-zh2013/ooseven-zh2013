@@ -68,6 +68,29 @@ QQ号：3808989166。
 
 ---
 
-好了，Github推荐的Profile流程走完了，现在是我自己的了。
+## 📊 GitHub 统计
 
-> Done with the GitHub recommended profile readme, now it's my own time.
+> GitHub Stats
+
+<!-- 主要统计 -->
+<p align="center">
+  <img src="svg/overview.svg" alt="GitHub Metrics" />
+</p>
+
+<!-- 贡献日历 -->
+<p align="center">
+  <img src="svg/contributions.svg" alt="Isometric Calendar" width="540" />
+</p>
+
+<!-- 语言统计 -->
+<p align="center">
+  <img src="svg/languages.svg" alt="Most Used Languages" width="540" />
+</p>
+
+<!-- AniList -->
+<details>
+  <summary>🎬 AniList 追番/阅读</summary>
+  <p align="center">
+    <img src="svg/anilist.svg" alt="AniList" />
+  </p>
+</details>

@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 > What am I currently working on?
 
-目前我正在开发的是 **[Game](https://github.com/ooseven-zh2013/Game)** 项目。
+目前我正在开发的是 **[Game](https://github.com/ooseven-zh2013/Game)** 和 **[MathsLearning](https://github.com/ooseven-zh2013/MathsLearning)** 项目。
 
-> I'm currently working on the project called **[Game](https://github.com/ooseven-zh2013/Game)**.
+> I'm currently working on the projects called **[Game](https://github.com/ooseven-zh2013/Game)** and **[MathsLearning](https://github.com/ooseven-zh2013/MathsLearning)**.
 
 ## 🌱 我正在学什么
 
@@ -65,3 +65,9 @@ QQ号：3808989166。
 我的项目中超过一半的`readme.md`都是AI写的。（这个不是）
 
 > More than half of the `readme.md` files in my projects are written by AI. (Not this one)
+
+---
+
+好了，Github推荐的Profile流程走完了，现在是我自己的了。
+
+> Done with the GitHub recommended profile readme, now it's my own time.

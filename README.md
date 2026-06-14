@@ -86,11 +86,3 @@ QQ号：3808989166。
 <p align="center">
   <img src="svg/languages.svg" alt="Most Used Languages" width="540" />
 </p>
-
-<!-- AniList -->
-<details>
-  <summary>🎬 AniList 追番/阅读</summary>
-  <p align="center">
-    <img src="svg/anilist.svg" alt="AniList" />
-  </p>
-</details>

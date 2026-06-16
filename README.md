@@ -1,5 +1,4 @@
-<!-- markdownlint-disable MD033 -->
-<!-- markdownlint-disable MD041 -->
+<!-- markdownlint-disable MD033 MD041 -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=%2336BCF7&center=true&vCenter=true&width=600&lines=%E7%9C%8B%E8%BF%99%E9%87%8C+%F0%9F%91%8B;%E6%88%91%E6%98%AF+ooseven-zh2013;%E4%B8%80%E4%B8%AA%E5%96%9C%E6%AC%A2coding%E7%9A%84%E5%88%9D%E4%B8%AD%E7%89%B2;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84Github+Profile" alt="Typing SVG" />

@@ -20,6 +20,14 @@ A middle school student who loves coding
 Welcome to my GitHub profile
  -->
 
+---
+
+> ⚠️ **声明：鉴于本人目前为在校中学生，暂不接受任何形式的商业合作、项目外包及委托开发事务。**
+>
+> ⚠️ **Disclaimer: As I am currently a full-time middle school student, I do not accept any form of commercial cooperation, project outsourcing, or commissioned development work.**
+
+---
+
 ## 🔭 我正在做什么
 
 > What am I currently working on?

@@ -32,9 +32,9 @@ Welcome to my GitHub profile
 
 > What am I currently working on?
 
-目前我正在开发的是 **[Game](https://github.com/ooseven-zh2013/Game)** 和 **[MathsLearning](https://github.com/ooseven-zh2013/MathsLearning)** 项目。
+目前我正在开发的是 **[MathsLearning](https://github.com/ooseven-zh2013/MathsLearning)** 项目。
 
-> I'm currently working on the projects called **[Game](https://github.com/ooseven-zh2013/Game)** and **[MathsLearning](https://github.com/ooseven-zh2013/MathsLearning)**.
+> I'm currently working on the projects called **[MathsLearning](https://github.com/ooseven-zh2013/MathsLearning)**.
 
 ## 🌱 我正在学什么
 

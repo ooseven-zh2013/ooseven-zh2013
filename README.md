@@ -42,7 +42,7 @@ Welcome to my GitHub profile
 
 全栈开发，目前在学基础的HTML。
 
-> Full stack development, currently learning basic HTML.
+> I’m currently learning Vibe Coding.
 
 ## 📫 如何联系我
 

@@ -32,15 +32,15 @@ Welcome to my GitHub profile
 
 > What am I currently working on?
 
-目前我正在开发的是 **[MathsLearning](https://github.com/ooseven-zh2013/MathsLearning)** 项目。
+目前我正在开发 Vibe Coding 相关项目。
 
-> I'm currently working on the projects called **[MathsLearning](https://github.com/ooseven-zh2013/MathsLearning)**.
+> I'm currently working on the projects about Vibe Coding.
 
 ## 🌱 我正在学什么
 
 > What am I currently learning?
 
-全栈开发，目前在学基础的HTML。
+目前在学习Vibe Coding。
 
 > I’m currently learning Vibe Coding.
 

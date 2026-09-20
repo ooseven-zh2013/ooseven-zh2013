@@ -21,8 +21,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="433.9776001739792" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="433.9776001739792" y="0" width="26.022399826020767" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="428.0676666941399" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="428.0676666941399" y="0" width="31.93233330586005" height="8" fill="#DA3434"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -34,8 +34,8 @@
                                 C++
                             </div>
                             <small>
-                                <div>34.7 kB</div>
-                                <div>94.34%</div>
+                                <div>45.1 kB</div>
+                                <div>93.06%</div>
                             </small>
                         </div>
                     </section>
@@ -48,8 +48,8 @@
                                 CMake
                             </div>
                             <small>
-                                <div>2.08 kB</div>
-                                <div>5.66%</div>
+                                <div>3.37 kB</div>
+                                <div>6.94%</div>
                             </small>
                         </div>
                     </section>

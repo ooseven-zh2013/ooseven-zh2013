@@ -21,9 +21,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="452.6436591809776" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="452.6436591809776" y="0" width="4.8398282694848085" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="457.48348745046235" y="0" width="2.5165125495376484" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="450.51497433105897" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="450.51497433105897" y="0" width="6.654340569440664" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="457.1693149004996" y="0" width="2.8306850995003865" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -35,8 +35,8 @@
                                 C++
                             </div>
                             <small>
-                                <div>274 kB</div>
-                                <div>98.4%</div>
+                                <div>313 kB</div>
+                                <div>97.94%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -47,8 +47,8 @@
                                 Shell
                             </div>
                             <small>
-                                <div>1.52 kB</div>
-                                <div>0.55%</div>
+                                <div>1.97 kB</div>
+                                <div>0.62%</div>
                             </small>
                         </div>
                     </section>
@@ -61,8 +61,8 @@
                                 PowerShell
                             </div>
                             <small>
-                                <div>2.93 kB</div>
-                                <div>1.05%</div>
+                                <div>4.62 kB</div>
+                                <div>1.45%</div>
                             </small>
                         </div>
                     </section>
